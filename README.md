@@ -2,7 +2,10 @@
 The objective of this repository is to provide Ansible playbooks to automate current tasks for deploying, hardening and managing RHEL servers.  
 - Deploying RHEL on remote host
 - Hardening the SSH configuration
+- Deploying a website using podman continers
 - Deploying Traefik as reverse proxy
+- Deploying Portainerfor managing containers
+- Deploying WordPress and MariaDB for the website
 
 ## Useful commands
 
