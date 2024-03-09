@@ -3,10 +3,10 @@ Ansible playbooks
 
 ## Useful commands
 
-Verify your RHEL OS version:
+Verify your RHEL OS version:  
 `cat /etc/redhat-release`
 
-Verify the kernel version on your RHEL OS:
+Verify the kernel version on your RHEL OS:  
 `uname -r`
 
 Update packages list:
