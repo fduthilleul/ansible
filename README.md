@@ -1,5 +1,8 @@
 # Automation with Ansible
-Ansible playbooks
+The objective of this repository is to provide Ansible playbooks to automate current tasks for deploying, hardening and managing RHEL servers.  
+- Deploying RHEL on remote host
+- Hardening the SSH configuration
+- Deploying Traefik as reverse proxy
 
 ## Useful commands
 
